@@ -71,6 +71,8 @@ Data Preprocessing
 
 Encoded target (M=1, B=0)
 
+Handled Multicollinearity using VIF
+
 Standardized features with StandardScaler
 
 Train-test split (80%-20%)
